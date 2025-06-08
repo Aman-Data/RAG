@@ -6,7 +6,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 
 st.header('A RAG App')
 
-groqapi='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'
+groqapi=''
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
